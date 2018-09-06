@@ -1,0 +1,16 @@
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.deps.json
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\Dqc.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\Dqc.Infraestructure.EFCore.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\EstudioAbogados.Domain.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\Dqc.Infraestructure.EFCore.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\EstudioAbogados.Domain.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\bin\Debug\netcoreapp2.0\Dqc.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.csprojAssemblyReference.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.AssemblyInfo.cs
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.csproj.CopyComplete
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Infraestructure\obj\Debug\netcoreapp2.0\EstudioAbogados.Infraestructure.pdb

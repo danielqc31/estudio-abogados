@@ -1,0 +1,15 @@
+<aside id="left-panel">
+  <app-login-info></app-login-info>
+  <nav>
+    <ul appNavigationMenu>
+      <li>
+        <a title="Mantenimientos"><i class="fa fa-lg fa-fw fa-home"></i><span class="menu-item-parent">Mantenimientos</span></a>
+        <ul>
+          <li routerLinkActive="active">
+            <a [routerLink]="['/mantenimientos/abogado']">Abogados</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</aside>

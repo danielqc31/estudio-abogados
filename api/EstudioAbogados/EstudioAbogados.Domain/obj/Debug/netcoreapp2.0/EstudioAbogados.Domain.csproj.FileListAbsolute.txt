@@ -1,0 +1,12 @@
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\bin\Debug\netcoreapp2.0\EstudioAbogados.Domain.deps.json
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\bin\Debug\netcoreapp2.0\EstudioAbogados.Domain.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\bin\Debug\netcoreapp2.0\EstudioAbogados.Domain.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\bin\Debug\netcoreapp2.0\Dqc.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\bin\Debug\netcoreapp2.0\Dqc.pdb
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.csprojAssemblyReference.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.AssemblyInfo.cs
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.csproj.CopyComplete
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.dll
+D:\Proyectos\Estudio-Abogados\api\EstudioAbogados\EstudioAbogados.Domain\obj\Debug\netcoreapp2.0\EstudioAbogados.Domain.pdb

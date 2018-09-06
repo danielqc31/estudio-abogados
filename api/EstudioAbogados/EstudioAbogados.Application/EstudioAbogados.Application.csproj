@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dqc\Dqc.csproj" />
+    <ProjectReference Include="..\EstudioAbogados.Domain\EstudioAbogados.Domain.csproj" />
+    <ProjectReference Include="..\EstudioAbogados.Infraestructure\EstudioAbogados.Infraestructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AbogadoApp\Dto\" />
+  </ItemGroup>
+
+</Project>
